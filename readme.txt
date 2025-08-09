@@ -8,7 +8,7 @@ sophisticated design is perfect for anyone who wants to create a polished and pr
 presence without spending a lot of time or money on web development.
 
 ==================================================================================================
-
+ 
 
 LICENSE:
 
@@ -125,5 +125,6 @@ Javascript Files:
 
 
 Thanks for downloading from StyleShout :)
+
 
 
